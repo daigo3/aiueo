@@ -1,0 +1,25 @@
+.App {
+  font-family: "Sawarabi Mincho", "游明朝", YuMincho, "Hiragino Mincho ProN", Meiryo, serif;
+
+  min-width: 768px;
+}
+
+.character {
+  display: inline-block;
+  width: 20%;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 30px;
+}
+
+.cover {
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 299px;
+  padding: 14% 0;
+  text-align: center;
+}
